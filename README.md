@@ -11,7 +11,7 @@ To analyze the relationship between input and received signal of a 660nm fiber o
 - Fiber optic trainer kit ST 2502  
 - Power supply  
 - Patch cords  
-- CRO (Cathode Ray Oscilloscope)  
+- CRO (Cathode Ray Oscilloscope)   
 - 660 nm fiber cable  
 
 ---
